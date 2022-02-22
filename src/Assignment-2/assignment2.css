@@ -68,9 +68,18 @@ input[name="app-search-input"] {
 #main-content-section {
     width: 38%;
     margin-left: 532px;
-    margin-top: -5px;
+    margin-bottom: 10px;
 }
 .right-sidebar-menu {
     float: right;
-    margin-top: -500px;
+}
+.app {
+    display: inline-block;
+
+}
+.post-img {
+    margin-top: 5px;
+}
+ul {
+    list-style: none;
 }
