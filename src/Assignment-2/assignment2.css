@@ -75,7 +75,7 @@ input[name="app-search-input"] {
 }
 .app {
     display: inline-block;
-
+    vertical-align: top;
 }
 .post-img {
     margin-top: 5px;
